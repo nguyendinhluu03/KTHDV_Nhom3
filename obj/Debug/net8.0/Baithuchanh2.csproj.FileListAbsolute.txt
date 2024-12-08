@@ -284,3 +284,4 @@ D:\BaiVisualStudio\source\repos\Baithuchanh2\bin\Debug\net8.0\runtimes\win\lib\n
 D:\BaiVisualStudio\source\repos\Baithuchanh2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\BaiVisualStudio\source\repos\Baithuchanh2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\BaiVisualStudio\source\repos\Baithuchanh2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\BaiVisualStudio\source\repos\Baithuchanh2\obj\Debug\net8.0\Baithuchanh2.sourcelink.json
