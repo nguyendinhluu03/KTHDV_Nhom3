@@ -15,6 +15,8 @@ namespace Baithuchanh2.Data
             base.OnConfiguring(optionsBuilder);
         }
         public DbSet<Products> Products { get; set; }
+        public DbSet<Orders> Orders { get; set; }
+        public DbSet<OrderItems> OrderItems { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Products>()
@@ -26,6 +28,12 @@ namespace Baithuchanh2.Data
                 .Property(e => e.Updated_at)
                 .HasColumnName("updated_at")   // Ánh xạ thuộc tính 'UpdatedAt' tới cột 'updated_at' trong cơ sở dữ liệu
                 .HasDefaultValueSql("GETDATE()"); // Thiết lập giá trị mặc định là GETDATE() cho 'updated_at'
+
+            modelBuilder.Entity<Orders>()
+                .HasMany(o => o.OrderItems)
+                .WithOne(oi => oi.Order)
+                .HasForeignKey(oi => oi.OrderId);
         }
+        
     }
 }

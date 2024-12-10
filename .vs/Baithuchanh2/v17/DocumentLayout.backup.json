@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +39,20 @@
       "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -56,10 +76,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_JBHL5SV_SQLEXPRESS/KTHDV/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|d:\\baivisualstudio\\source\\repos\\baithuchanh2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BDD41F2E-A0AC-4160-88FE-3779C8112D89}|Baithuchanh2.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,37 +85,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 288,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderItemsController.cs",
+              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Controllers\\OrderItemsController.cs*",
+              "RelativeToolTip": "Controllers\\OrderItemsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T08:39:15.195Z",
+              "WhenOpened": "2024-12-08T10:16:30.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Data\\DataContext.cs",
-              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Data\\DataContext.cs",
-              "RelativeToolTip": "Data\\DataContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T16:13:41.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "HelloWorldController.cs",
               "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Controllers\\HelloWorldController.cs",
               "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
@@ -112,33 +115,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Products.cs",
-              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Models\\Products.cs",
-              "RelativeDocumentMoniker": "Models\\Products.cs",
-              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Models\\Products.cs",
-              "RelativeToolTip": "Models\\Products.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBcAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T08:34:32.132Z",
+              "WhenOpened": "2024-12-08T10:14:07.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAmwDcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T12:29:17.927Z",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T16:45:35.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "Models\\Orders.cs",
+              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Models\\Orders.cs",
+              "RelativeToolTip": "Models\\Orders.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:07:24.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -151,7 +167,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:34:32.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItems.cs",
+              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Models\\OrderItems.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItems.cs",
+              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Models\\OrderItems.cs",
+              "RelativeToolTip": "Models\\OrderItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:08:05.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:39:15.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:41:51.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:13:41.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:29:17.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "DataContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Migrations\\DataContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\DataContextModelSnapshot.cs",
@@ -164,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -177,20 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAjwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:41:51.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "20241205054030_Init.cs",
               "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Migrations\\20241205054030_Init.cs",
               "RelativeDocumentMoniker": "Migrations\\20241205054030_Init.cs",
@@ -203,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -216,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "JwtMiddleware.cs",
               "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Middleware\\JwtMiddleware.cs",
               "RelativeDocumentMoniker": "Middleware\\JwtMiddleware.cs",
@@ -229,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -242,24 +323,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "dbo.User.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_JBHL5SV_SQLEXPRESS/KTHDV/True/SqlTable/dbo.User.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_JBHL5SV_SQLEXPRESS/KTHDV/True/SqlTable/dbo.User.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-12-05T05:19:23.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\BaiVisualStudio\\source\\repos\\Baithuchanh2\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAA4AAAAAAAAAAABRwBoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-04T16:45:35.329Z"
             }
           ]
         },
